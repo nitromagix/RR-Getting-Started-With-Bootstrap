@@ -1,9 +1,13 @@
 .App {
   text-align: center;
   border: 2px solid black;
+  width: 70vw;
 
   margin: 0 auto;
  
+}
+.form{
+   padding:25px;
 }
 
 .App-logo {
